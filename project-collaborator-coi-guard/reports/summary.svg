@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <rect width="960" height="540" fill="#101827"/>
+  <text x="48" y="70" fill="#e5e7eb" font-family="Arial" font-size="34" font-weight="700">Collaborator COI Access Guard</text>
+  <text x="48" y="112" fill="#94a3b8" font-family="Arial" font-size="18">Quantum Cell Imaging Dataset</text>
+  <rect x="48" y="150" width="250" height="180" rx="10" fill="#0f766e"/>
+  <rect x="355" y="150" width="250" height="180" rx="10" fill="#92400e"/>
+  <rect x="662" y="150" width="250" height="180" rx="10" fill="#991b1b"/>
+  <text x="84" y="220" fill="#ecfeff" font-family="Arial" font-size="64">1</text>
+  <text x="391" y="220" fill="#fffbeb" font-family="Arial" font-size="64">1</text>
+  <text x="698" y="220" fill="#fee2e2" font-family="Arial" font-size="64">1</text>
+  <text x="84" y="280" fill="#ccfbf1" font-family="Arial" font-size="26">Allow</text>
+  <text x="391" y="280" fill="#fde68a" font-family="Arial" font-size="26">Steward review</text>
+  <text x="698" y="280" fill="#fecaca" font-family="Arial" font-size="26">Hold</text>
+  <text x="48" y="410" fill="#cbd5e1" font-family="Arial" font-size="18">Digest: ca193f062c1f9522a767d583...</text>
+  <text x="48" y="450" fill="#64748b" font-family="Arial" font-size="16">Synthetic demo data only. No identity-provider calls, credentials, or private projects.</text>
+</svg>

@@ -1,0 +1,58 @@
+{
+  "projectId": "proj_quantum_cells",
+  "projectTitle": "Quantum Cell Imaging Dataset",
+  "reviewedAt": "2026-05-29",
+  "policy": {
+    "coauthorLookbackDays": 730,
+    "allowSameInstitution": false
+  },
+  "decisions": [
+    {
+      "candidateId": "user_ada",
+      "name": "Ada Park",
+      "requestedRole": "reviewer",
+      "action": "allow",
+      "findings": [],
+      "identityGaps": [],
+      "evidenceHash": "0092dfca0ab84884558c93ce84c0a9b5e85c10cd47efbc8aa6128593caa71c7d"
+    },
+    {
+      "candidateId": "user_ben",
+      "name": "Ben Ortiz",
+      "requestedRole": "data_steward",
+      "action": "hold",
+      "findings": [
+        {
+          "code": "recent_coauthor",
+          "severity": "high",
+          "message": "Ben Ortiz coauthored with project owner 148 days before review."
+        }
+      ],
+      "identityGaps": [],
+      "evidenceHash": "873eb2f81d0d2cd137faa51b56b87cba13a85db6fea8339209b81f8f312ec591"
+    },
+    {
+      "candidateId": "user_chandra",
+      "name": "Chandra Li",
+      "requestedRole": "collaborator",
+      "action": "steward_review",
+      "findings": [
+        {
+          "code": "funding_overlap",
+          "severity": "medium",
+          "message": "Chandra Li has indirect funding overlap via NIH-AI-7781."
+        }
+      ],
+      "identityGaps": [
+        "orcid_unverified"
+      ],
+      "evidenceHash": "4d9683e731a5abaf6f1b2d70798264e9c3a74b18ed8b7f1ca0f8f944423f24a2"
+    }
+  ],
+  "summary": {
+    "allow": 1,
+    "hold": 1,
+    "stewardReview": 1
+  },
+  "auditDigest": "ca193f062c1f9522a767d5839b530713a8078fb049aba877451afac74e665f86"
+}
